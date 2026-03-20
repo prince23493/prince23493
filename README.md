@@ -1,8 +1,4 @@
-## Hi 👋, I'm Princekumar Sah
-
-<!--
-**prince23493/prince23493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi 👋, I'm Princekumar 
 📍 Nagpur, India
 📞 +91-885-----38
 📧 princekumaar2003@gmail.com
@@ -21,4 +17,10 @@ Data Visualization
 
 
 🛠️ Languages and Tools:Python R  MySQL MongoDB SGit GitHub Anaconda Jupyter PyCharm Power BI Generative AI Statistics Excel Docker VS Code Pandas NumPy Scikit-learn TensorFlow 
+ 
+
+
+<!--
+**prince23493/prince23493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
  
